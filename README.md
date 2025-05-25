@@ -192,8 +192,8 @@ VITE_API_URL=http://localhost:3000/api
 
 ### Usuários Padrão
 
-- **Admin**: admin@cafeteria.com / admin123
-- **Funcionário**: funcionario@cafeteria.com / admin123
+- **Admin**: davi.fcosinha@gmail.com / adm
+- **Admin**: joaovitor / adm
 
 ### Rotas Protegidas
 
